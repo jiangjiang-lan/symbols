@@ -43,7 +43,7 @@
 			)
 		)
 		(property "Description" "Single Chip MCU based on the 8051 architecture, 1KB Flash, 4KB EEPROM, SOP-16"
-			(at 0 0 0)
+			(at 3.556 -30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -413,7 +413,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Description" "Single Chip MCU based on the 8051 architecture, 6KB Flash, SOP-16"
+=======
+		(property "Description" "Single Chip MCU based on the 8051 architecture, 1KB Flash, 4KB EEPROM, SOP-16"
+>>>>>>> STC15W408AS-35I-SOP20
 			(at 3.556 -30.48 0)
 			(effects
 				(font
