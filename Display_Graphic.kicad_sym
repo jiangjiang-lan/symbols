@@ -12350,7 +12350,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "DS"
-			(at -10.16 38.1 0)
+			(at 5.334 -13.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12358,7 +12358,7 @@
 			)
 		)
 		(property "Value" "OLED-128O064D-1.3Inch_4Pin_Module"
-			(at 12.7 38.1 0)
+			(at 28.194 -13.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
