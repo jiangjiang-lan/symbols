@@ -1,0 +1,228 @@
+[33mcommit 4b0a5881535cc28d569140b92dfb7d3cc525f578[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: f5cd7dd3 603df8ce
+Author: “江庆艳” <3164677893@qq.com>
+Date:   Mon Feb 17 13:04:03 2025 +0800
+
+    添加：STC15W408AS-35I-SOP20
+
+[33mcommit f5cd7dd39ee2ffefdab59faee5811fdf876e8e9a[m
+Author: “江庆艳” <3164677893@qq.com>
+Date:   Mon Feb 17 12:56:46 2025 +0800
+
+    添加：STC15W408AS-35I-SOP20
+
+[33mcommit 603df8ce2ef1ac02fa0b9a309d9aac2145f6943c[m
+Author: “江庆艳” <3164677893@qq.com>
+Date:   Mon Feb 17 12:45:09 2025 +0800
+
+    添加：STC15W408AS-35I-SOP20
+
+[33mcommit 2751badd7e71b07ba43670d670085c3520082e29[m
+Author: “江庆艳” <3164677893@qq.com>
+Date:   Mon Feb 17 11:30:18 2025 +0800
+
+    添加：1.3inch,4pin
+
+[33mcommit 3fccbda18d240510fd524968aaecc04eb220bcb1[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Joel Guittet <myfreescalewebpage@gmail.com>
+Date:   Thu Feb 13 21:25:51 2025 +0000
+
+    Add KTD20xx (61/58/59/60) RGB LED Drivers
+    
+    See merge request kicad/libraries/kicad-symbols!4432
+
+[33mcommit 9f358c2965a1841337d4c22a0b5e6cc91d67c8cc[m
+Author: Simon F <spf85k@gmail.com>
+Date:   Thu Feb 13 16:23:57 2025 +0000
+
+    BGA FP generator derives FP names from parameters: symbol updates after footprint renames
+    
+    See merge request kicad/libraries/kicad-symbols!4859 and https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/merge_requests/1382
+
+[33mcommit 50cd080aff6d78a5ad054d7496063a94a1a8541b[m
+Author: Fermin Olaiz <ferminolaiz@gmail.com>
+Date:   Wed Feb 12 16:24:47 2025 +0000
+
+    Battery_Management: Add TP4056 (Lithium battery charger IC)
+    
+    See merge request kicad/libraries/kicad-symbols!4573
+
+[33mcommit 602e8d679796a1f10f479dbc87e5f6b924e008ac[m
+Author: Sergio Rocha <sergiobenrocha2@gmail.com>
+Date:   Tue Feb 11 13:07:52 2025 +0000
+
+    Add TLC27M2 / TLC27M7, 10mV and 500μV offset AmpOps
+    
+    See merge request kicad/libraries/kicad-symbols!4882
+
+[33mcommit 82b9bc8f46ec7d938493cd444b857a6069f83ea9[m
+Author: Tech-Support TracoPower <13849310-techsupport_traco@users.noreply.gitlab.com>
+Date:   Tue Feb 11 12:56:35 2025 +0000
+
+    Added Traco TRA 3 symbols
+    
+    See merge request kicad/libraries/kicad-symbols!4900
+
+[33mcommit a9300f58fff4495ebd913cb0c92eb5c96546653b[m
+Author: Sergio Rocha <sergiobenrocha2@gmail.com>
+Date:   Tue Feb 11 07:35:50 2025 +0000
+
+    Fix LT8705AxFE pin types, move pins from bottom to sides
+    
+    See merge request kicad/libraries/kicad-symbols!4899
+
+[33mcommit 652abcb02b4aa3f5874bc7cc0dcab4815622333a[m
+Author: Diego Herranz <diegoherranz@diegoherranz.com>
+Date:   Mon Feb 10 15:53:11 2025 +0000
+
+    Add TI OPA165x Op-Amp family
+    
+    See merge request kicad/libraries/kicad-symbols!4898
+
+[33mcommit 950ed17789ab5dc1b4e6bf3611dac329c20ea4bc[m
+Author: Matthew Stephenson <gitlab@mainmast.org.uk>
+Date:   Mon Feb 10 03:17:56 2025 +0000
+
+    Add LT8705A buck-boost controller
+    
+    See merge request kicad/libraries/kicad-symbols!4771
+
+[33mcommit 3a1e34d61fe9d45efebb4ea359323c0aa7962a19[m
+Author: cpresser <c@rstenpresser.de>
+Date:   Sun Feb 9 20:24:37 2025 +0000
+
+    Rename D-SUB Connectors to match footprints
+    
+    See merge request kicad/libraries/kicad-symbols!4897
+
+[33mcommit 1b17b8aad7730c66142456ece5e58b58d1e319dc[m
+Author: Andreas K <andreas.kaeberlein@web.de>
+Date:   Sun Feb 9 18:15:11 2025 +0000
+
+    Add MBRS340 - Schottky Diode
+    
+    See merge request kicad/libraries/kicad-symbols!4896
+
+[33mcommit 906e1674fa4155301c1df8ed8c765177e4f9f666[m[33m ([m[1;33mtag: [m[1;33m9.0.0-rc3[m[33m)[m
+Author: nohit <3585017-nohit@users.noreply.gitlab.com>
+Date:   Fri Feb 7 13:50:47 2025 +0000
+
+    Add MCP3221 single channel 12 bit I2C SAR ADC
+    
+    See merge request kicad/libraries/kicad-symbols!4894
+
+[33mcommit 0b2de31cf4894056d2a6ec0b10aec9e36c3ba99e[m
+Author: Sergio Rocha <sergiobenrocha2@gmail.com>
+Date:   Sat Jan 11 16:28:58 2025 -0300
+
+    Unify SOP-8/SOIC-8 in 208mil/5.3mm width
+    
+    This is MR https://gitlab.com/kicad/libraries/kicad-symbols/-/merge_requests/4861
+    It's the counterpart to companion MR https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/merge_requests/1384
+    
+    - Update filters, description and some datasheets of symbols using SOIC-8/SOP-8
+    - Update ATtiny13A-S datasheets
+    - Update footprints for SOP-8-5.3x5.3mm_P1.27mm and SOIC-8_5.3x6.2mm_P1.27mm
+    - Update 2 symbols that use W8-2 (5.285x5.31mm) to SOIC-8-5.3x5.3mm (search for 21-0262 in datasheet, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic/21-0262.pdf)
+    - Change footprint for DS1621V, differentiate the two SOIC-8 between 'S' and 'V' variants
+    - Rename TL7705ACPSR to TL7705AxPS, remove extra chars, put 'SOIC-8 (208 mil)' in Description (there's other SOIC option for this component)
+    - Split DS1302 - there are both 150 mil and 208 mil options, fix keywords
+    - Fix onsemi, atmel, microchip, winbond and macronix symbols that have both 150 and 208 mils option
+
+[33mcommit b9b0c20b302a17d9163f0762d43733c09aee9eff[m
+Author: Sebastian Reichel <sre@ring0.de>
+Date:   Mon Feb 3 16:00:42 2025 +0000
+
+    Add BSD840N Dual N-Channel MOSFET
+    
+    See merge request kicad/libraries/kicad-symbols!4424
+
+[33mcommit 8c3a7b60146b0eb3b1fae17dd54141d3612b71bd[m
+Author: Sergio Rocha <sergiobenrocha2@gmail.com>
+Date:   Mon Feb 3 07:04:12 2025 +0000
+
+    MP6536DU: fix SHDNB pin, it's active low (when low, IC shuts off)
+    
+    See merge request kicad/libraries/kicad-symbols!4891
+
+[33mcommit 22869e63b735ded3224e05cd528dd826f60ed90b[m
+Author: Sebastien Pernecker <sebastien.pernecker@epfl.ch>
+Date:   Mon Feb 3 03:17:03 2025 +0000
+
+    Add MP6536, 3-channel half-bridge driver
+    
+    See merge request kicad/libraries/kicad-symbols!4870
+
+[33mcommit a64eba768ddd493ea5bd9035bbdae8c1148f80d5[m
+Author: Andreas Philipp <git@anphi.de>
+Date:   Sun Feb 2 11:18:32 2025 +0000
+
+    Add BSP76 lowside switch to Driver_FET library
+    
+    See merge request kicad/libraries/kicad-symbols!4881
+
+[33mcommit ee8c4de186ff6b51f97b4d9ee017ca9c62d6af05[m
+Author: Sergio Rocha <sergiobenrocha2@gmail.com>
+Date:   Sat Feb 1 15:47:11 2025 +0000
+
+    Add 1-Mbit SRAM derived symbols - add CY62128E, CY62128EV30 and IS6xC1024AL
+    
+    See merge request kicad/libraries/kicad-symbols!4885
+
+[33mcommit cd30a1cddba3e2ce6479c9da2cdd98bb60a3c632[m
+Author: Alexandre Rey <alx.rey@icloud.com>
+Date:   Thu Jan 30 21:23:41 2025 +0100
+
+    Add TagConnect symbols
+    
+    See https://gitlab.com/kicad/libraries/kicad-symbols/-/merge_requests/4888
+
+[33mcommit af20178d7cbb7d6ce42ca6d52f7d245ef551accc[m
+Author: bluuas <bluuas@proton.me>
+Date:   Fri Jan 31 22:05:57 2025 +0000
+
+    add TCAN4551, similar to TCAN4550
+    
+    See merge request kicad/libraries/kicad-symbols!4887
+
+[33mcommit 6c066efe75616ba2b746e9669b09bca9bd4abe1f[m
+Author: John Beard <john.j.beard@gmail.com>
+Date:   Wed Jan 29 15:53:08 2025 +0000
+
+    BJT: Remove footprint filters from generic root parts
+    
+    See merge request kicad/libraries/kicad-symbols!4886
+
+[33mcommit 62e0b6d2f8454af1f9a4893b0de02a94dd44eab6[m
+Author: John Beard <john.j.beard@gmail.com>
+Date:   Wed Jan 29 15:46:10 2025 +0000
+
+    Transistor_FET: Move root-like symbols from Device
+    
+    See merge request kicad/libraries/kicad-symbols!4878
+
+[33mcommit 8319200cd9ab33eeabe2a5c9b157e5340012d71e[m
+Author: lfelten <lothar.felten@gmail.com>
+Date:   Tue Jan 28 22:39:18 2025 +0000
+
+    74LS390: add SOIC-16 as package option
+    
+    See merge request kicad/libraries/kicad-symbols!4883
+
+[33mcommit b509362be5df264f50952f887de6d975d2b3cd5c[m
+Author: Ilias Daradimos <ilias@libre.space>
+Date:   Tue Jan 28 14:46:30 2025 +0000
+
+    Add WEMOS C3 mini module
+    
+    See merge request kicad/libraries/kicad-symbols!4846
+
+[33mcommit 780e1fe6ac01a7767341dc2ef5d5c00e5588c8f4[m
+Author: Simon F <spf85k@gmail.com>
+Date:   Mon Jan 27 16:13:37 2025 +0000
+
+    Changed references to the MSOP-12-16 footprints (and filters) after renaming them
+    
+    See merge request kicad/libraries/kicad-symbols!4832
+
+[33mco
